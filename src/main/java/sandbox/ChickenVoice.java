@@ -1,4 +1,4 @@
-package stuff;
+package sandbox;
 
 public class ChickenVoice {
     public static void main(String[] args) {

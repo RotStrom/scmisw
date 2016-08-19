@@ -1,4 +1,4 @@
-package stuff;
+package sandbox;
 
 /**
  * testing jvm running until all simple threads are alive

@@ -1,4 +1,4 @@
-package stuff;
+package sandbox;
 
 public class Test {
     static class A1 implements Runnable {

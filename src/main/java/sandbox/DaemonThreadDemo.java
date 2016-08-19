@@ -1,4 +1,4 @@
-package stuff;
+package sandbox;
 
 public class DaemonThreadDemo {
     public static void main(String[] args) {

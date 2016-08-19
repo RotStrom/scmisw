@@ -1,4 +1,4 @@
-package stuff;
+package sandbox;
 
 public class InterruptionDemo {
     public static void main(String[] args) throws InterruptedException {

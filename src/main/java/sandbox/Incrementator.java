@@ -1,4 +1,4 @@
-package stuff;
+package sandbox;
 
 public class Incrementator extends Thread {
     private volatile boolean mIsIncrement = true;

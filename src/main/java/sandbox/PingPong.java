@@ -1,4 +1,4 @@
-package stuff;
+package sandbox;
 
 import java.io.OutputStream;
 import java.util.concurrent.locks.Lock;

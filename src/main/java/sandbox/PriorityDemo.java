@@ -1,4 +1,4 @@
-package stuff;
+package sandbox;
 
 public class PriorityDemo {
     private static class Counter extends Thread {

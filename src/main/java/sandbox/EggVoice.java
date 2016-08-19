@@ -1,4 +1,4 @@
-package stuff;
+package sandbox;
 
 public class EggVoice extends Thread {
     @Override

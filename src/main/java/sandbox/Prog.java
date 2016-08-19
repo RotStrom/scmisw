@@ -1,4 +1,4 @@
-package stuff;
+package sandbox;
 
 public class Prog {
     public static int mValue = 0;

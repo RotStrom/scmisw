@@ -1,4 +1,4 @@
-package stuff;
+package sandbox;
 
 public class Prog2 {
     private static class Incremenator extends Thread {
