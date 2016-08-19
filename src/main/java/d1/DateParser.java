@@ -7,6 +7,7 @@ import java.util.Date;
 
 /**
  * throws an exception because SimpleDateFormat isn't thread-safe
+ * in fact, couldn't get exception
  */
 public class DateParser {
     private final DateFormat format = new SimpleDateFormat("yyyy-MM-dd");
